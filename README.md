@@ -12,13 +12,13 @@ The primary goals of these exercises are:
 
 ## Structure of the Repository
 The repository is structured as follows:
-- `Exercise_1/` - Fundamental reentry trajectory simulation, focusing on basic dynamics.
-- `Exercise_2/` - Extended analysis including aerodynamic forces and drag modeling.
-- `Exercise_3/` - Advanced case with heating effects and thermal protection considerations.
+- `Ex_1/` - Re-entry trajectory simulation on Mars, focusing on basic dynamics.
+- `Ex_2/` - Aerodynamic forces analysis on a surface.
+- `Ex_3/` - Earth re-entry capsule design with heating effects and thermal protection considerations.
 
 Each exercise includes:
 - MATLAB scripts for numerical simulations.
-- Plots and results for visualization and analysis.
+- Plots for visualization and analysis.
 
 ## Prerequisites
 To run these exercises, you will need:
